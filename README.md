@@ -32,10 +32,14 @@ The [standard deviation][stdev] for a [binomial][binomial-distribution] random v
 
 <!-- <equation class="equation" label="eq:binomial_stdev" align="center" raw="\sigma = \sqrt{n p (1-p)}" alt="Standard deviation for a binomial distribution."> -->
 
-<div class="equation" align="center" data-raw-text="\sigma = \sqrt{n p (1-p)}" data-equation="eq:binomial_stdev">
+```math
+\sigma = \sqrt{n p (1-p)}
+```
+
+<!-- <div class="equation" align="center" data-raw-text="\sigma = \sqrt{n p (1-p)}" data-equation="eq:binomial_stdev">
     <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@51534079fef45e990850102147e8945fb023d1d0/lib/node_modules/@stdlib/stats/base/dists/binomial/stdev/docs/img/equation_binomial_stdev.svg" alt="Standard deviation for a binomial distribution.">
     <br>
-</div>
+</div> -->
 
 <!-- </equation> -->
 
@@ -226,7 +230,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 -->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://gitter.im/stdlib-js/stdlib/
+[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
