@@ -69,7 +69,7 @@ where `n` is the number of trials and `p` is the success probability.
 ## Usage
 
 ```javascript
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-stdev@deno/mod.js';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-stdev@v0.2.1-deno/mod.js';
 ```
 
 #### stdev( n, p )
@@ -137,7 +137,7 @@ v = stdev( 20, 1.5 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-stdev@deno/mod.js';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-stdev@v0.2.1-deno/mod.js';
 
 var v;
 var i;
