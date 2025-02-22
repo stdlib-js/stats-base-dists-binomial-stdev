@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-18)
+## Unreleased (2025-02-22)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#3476](https://github.com/stdlib-js/stdlib/issues/3476)
+[#3476](https://github.com/stdlib-js/stdlib/issues/3476), [#5305](https://github.com/stdlib-js/stdlib/issues/5305)
 
 </section>
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`7c6d2b7`](https://github.com/stdlib-js/stdlib/commit/7c6d2b7038784f61acad0b3f0f9680df91a34411) - **docs:** update examples for `stdlib/base/dists/binomial/stdev` [(#5311)](https://github.com/stdlib-js/stdlib/pull/5311) _(by Rishav Tarway)_
 -   [`e05da28`](https://github.com/stdlib-js/stdlib/commit/e05da283a2493c635c06ab0f19e4aefbcc9e2540) - **feat:** add C implementation for `stats/base/dists/binomial/stdev` [(#4408)](https://github.com/stdlib-js/stdlib/pull/4408) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
 -   [`af55f0d`](https://github.com/stdlib-js/stdlib/commit/af55f0d6d6b4d06c36f46357740ea89a4639ab5b) - **bench:** refactor random number generation in `stats/base/dists/binomial` [(#4841)](https://github.com/stdlib-js/stdlib/pull/4841) _(by Karan Anand)_
 
@@ -47,11 +48,12 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
+-   Rishav Tarway
 
 </section>
 
